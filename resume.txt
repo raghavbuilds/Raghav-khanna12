@@ -1,0 +1,38 @@
+RAGHAV KHANNA
+Senior Software Engineer | Java Backend & Full-Stack
+
+GitHub: https://github.com/raghavbuilds
+Email: [ADD PROFESSIONAL EMAIL]
+LinkedIn: [ADD LINKEDIN PROFILE]
+Location: India
+
+PROFILE
+Software engineer with approximately five years of experience in the software industry. Focused on Java backend and full-stack engineering, including Spring Boot, microservices, REST APIs, SQL databases, and modern web development. Current role at Accenture began in March 2026.
+
+EXPERIENCE
+Accenture | Senior Software Engineer | March 2026–Present
+[Add team, product area, responsibilities, and verified outcomes.]
+
+Previous software engineering experience | [Add employer(s), title(s), and dates]
+[Add verified responsibilities and outcomes.]
+
+SELECTED PROJECTS
+SplitPay Marketplace — Java 21, Spring Boot, Kafka, PostgreSQL, Docker
+Escrow-oriented multi-vendor marketplace backend. Implements event-driven checkout coordination with a choreography-based saga and transactional outbox pattern.
+Source: https://github.com/raghavbuilds/apexstore-escrow-marketplace
+
+Stock Portfolio Tracker — Java, Spring Boot, React, MySQL, Redis
+Full-stack stock tracker with a REST API, persisted holdings, cached quote lookups, and a React dashboard.
+Source: https://github.com/raghavbuilds/stock-portfolio-tracker
+
+SKILLS
+Java, Spring Boot, Microservices, REST, React, Angular, SQL databases, Docker, Kubernetes, Jenkins, Git, Kafka, Azure, AKS, Agile, Kanban
+
+CERTIFICATIONS
+[Add certification, issuer, and year, or remove this section.]
+
+EDUCATION
+[Add degree, institution, and year.]
+
+Before sharing, replace every bracketed note with verified details and remove this reminder.
+
